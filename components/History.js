@@ -10,3 +10,5 @@ class History extends Component {
     );
   }
 }
+
+export default History;
