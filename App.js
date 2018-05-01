@@ -89,7 +89,7 @@ const MainNavigator = StackNavigator({
 
 export default class App extends Component {
   componentDidMount() {
-    setLocalNotification;
+    setLocalNotification();
   }
   render() {
     return (
